@@ -1,6 +1,6 @@
 # Discourse Features
 
-Course interface for Dr. Steven Rungee's discourse analysis workshop
+Course interface for Dr. Steven Runge's discourse analysis workshop
 (Hyderabad, 24 April – 3 May 2024). 208 topics over 150 recordings.
 
 Published at <https://nlci-lab.github.io/discourse-features/>.
